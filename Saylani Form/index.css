@@ -1,0 +1,16 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large; 
+    color: #6B5ACD
+}
+
+form.form {
+    font-weight: bold;
+    border-color: blue;    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20pc;
+    margin-right: 10pc;
+    color: rgb(255, 255, 255);
+    background-color: #6B5ACD;
+}
+
