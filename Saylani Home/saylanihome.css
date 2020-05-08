@@ -1,0 +1,26 @@
+.container1{
+    color: white;
+    text-align: center;
+    background-color: #316dc3 !important;
+    padding-top: 7px;
+}
+
+.col-sm1{
+}
+
+
+.container2{
+    text-align: justify;
+    background-color: #316dc3;
+
+}
+
+.container3{
+    background-color: rgba(36, 79, 242, 0.8) !important;
+
+}
+
+
+li{
+    display: inline !important;
+}
